@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Welcome!
-subtitle: Flake It till You Make It: commentary by Matthew Trontz
-cover-img: /assets/img/TES-Logo.var2.png
-thumbnail-img: /assets/img/TES-Logo.var2.png
-share-img: /assets/img/TES-Logo.var2.png
-tags: [general, intro, 2021, June]
+title: Flake It till You Make It
+subtitle: commentary by Matthew Trontz
+gh-repo: DevTE-Admin/beautiful-jekyll-starter
+gh-badge: [star, fork, follow]
+tags: [general, intro]
+comments: true
 ---
+
 Date: 06-09-2021 : 05:49 AM 
 So this post was originally a starter template from a github repo I forked, ( https://github.com/daattali ), and so I replaced the title and subtitle of it, and was about to delete the paragraphs when something caught my eye. I swear, the human brain is a technology like no other. Somehow, in the miliseconds it took to glance through the first paragraph before deleting it, my brain was able to process the content, in some pre-cognitive way, and and generate a feeling that's hard to explain with a single word, but easy to explain in a short sentance. I felt like that paragraph, first up on the chopping block, was in some way descriptive of, or in agreement with, my personal beliefs and sentiments. (If you can think quickly of a single word that I could have used to describe this feeling, instead of typing out a whole sentance, please feel free to email or DM me. I'm all about efficiency!) How true it is, the feeling of wanting to be out on one's own, in control of one's own life and destiny, (if your in to that kind of stuff), but also worried that "others" would consider you a failure if you fell short of that unique success that we Americans have come to associate with independance. Now, having saved the life of such a profound and thought-provoking statement, I will leave you with this. Under what circumstances **SHOULD** we take that leap? Please answer by leaving a comment on this post, I would love to hear everyones thoughts on this! Be sure to read through the paragraphs below, originally the post template, and be sure to follow me on Github @DevTE-Admin - More soon!
 
